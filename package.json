@@ -2,8 +2,8 @@
   "name": "bible-toolbar",
   "title": "bible-toolbar",
   "id": "jid1-Qcm4GRwtPY1Tng",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "A Bible toolbar with many features, including daily Bible verses, links to devotionals, and searching for verses.",
+  "author": "Ola Owoputi",
   "license": "MPL 2.0",
   "version": "0.1"
 }
